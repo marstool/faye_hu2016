@@ -6,6 +6,15 @@ weight = 20
 
 
 
+* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "zz2017" >}})
+
+
+* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "zz2016" >}})
+
+
+* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "zz2014" >}})
+
+
 * [ 20161229  中国居然有”学子“抵制圣诞？！  ]({{< relref "20161229_kmewfygljum" >}})
 
 
@@ -31,7 +40,4 @@ weight = 20
 
 
 * [ 20161214  与你分享移民美国的感受和经历(一)  ]({{< relref "20161214_tbs7jnrb95u" >}})
-
-
-* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "2014" >}})
 
