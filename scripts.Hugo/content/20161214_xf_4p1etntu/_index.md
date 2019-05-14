@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20161214_xf_4p1etntu.mp4" >}}
 
+     https://www.youtube.com/watch?v=Xf 4p1etNTU 
      分享移民美国的生活点滴 （开始篇） 
      移民=脱胎换骨！ 你觉得走出中国就是件好事？ 在美国就可以从头开始？？留意我的频道，我会深入剖释美国各种存的问题。 
-     https://www.youtube.com/watch?v=Xf 4p1etNTU 
